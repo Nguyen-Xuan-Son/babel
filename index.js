@@ -5,4 +5,4 @@ console.log("a", a);
 console.log("b", b);
 console.log("c", c);
 
-document.write(a + b + c);
+const fn = () => 1;
